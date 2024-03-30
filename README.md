@@ -57,10 +57,14 @@ The following task is advanced and therefore optional.
 
 - Refer to the [Plotly.js documentation](https://plotly.com/javascript/) when building the plots.
 
-Citations
+# **Citations**
 
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
 
 Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
+
+Color Schemes: [Picnic Colorscale](https://plotly.com/javascript/colorscales/)
+Color Codes: [HTML Colors](https://www.w3schools.com/tags/ref_colornames.asp)
+Async Function: [Cleaner Styling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
 
