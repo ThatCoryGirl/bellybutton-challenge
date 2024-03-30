@@ -144,7 +144,8 @@ function createGaugeChart(washingFrequency) {
   function optionChanged(selectedSample) {
     fetchData().then(data => {
       const sampleData = data.samples.find(sample => sample.id === selectedSample);
-      const sampleMetadata = data.metadata.find(metadata => metadata.id === parseInt(selectedSample)); // Find metadata for selected sample
+      // Find metadata for selected sample
+      const sampleMetadata = data.metadata.find(metadata => metadata.id === parseInt(selectedSample));
       createBarChart(sampleData);
       createBubbleChart(sampleData);
       // Display sample metadata
