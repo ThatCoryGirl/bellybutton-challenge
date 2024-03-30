@@ -64,7 +64,11 @@ Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly 
 Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
 
 Color Schemes: [Picnic Colorscale](https://plotly.com/javascript/colorscales/)
+
 Color Codes: [HTML Colors](https://www.w3schools.com/tags/ref_colornames.asp)
+
 Async Function: [Cleaner Styling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+
+Font-Family: [HTML/CSS Style Editing](https://www.w3schools.com/html/html_css.asp)
 
 
